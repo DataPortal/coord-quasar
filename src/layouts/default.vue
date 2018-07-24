@@ -17,7 +17,7 @@
         </q-btn>
 
         <q-toolbar-title>
-          Coord-Quasar
+          coord-quasar
           <div slot="subtitle">Running on Quasar v{{ $q.version }}</div>
         </q-toolbar-title>
       </q-toolbar>

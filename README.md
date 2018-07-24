@@ -8,7 +8,7 @@
 
 > View details: http://localhost:8083/bikes
 
-> View on GitHub: https://dataportal.github.io/Coord-Quasar
+> View on GitHub: https://dataportal.github.io/coord-quasar
 
 > Issue: "bikes" route returning 404 on GitHub
 
@@ -27,7 +27,7 @@
 > git subtree push --prefix dist/spa-mat origin gh-pages
 
 
-> bikemap.html page is not vueJS: https://smartparks.github.io/Coord-Quasar/bikemap.html
+> bikemap.html page is not vueJS: https://smartparks.github.io/coord-quasar/bikemap.html
 
 > Didn't use, used gh-pages instead.
 > quasar.conf.js > build
@@ -49,6 +49,6 @@
 > NOT DOING
 > In dist/spa-mat/index.html, replace:
 
-> src=/js with src=/Coord-Quasar/js
+> src=/js with src=/coord-quasar/js
 
-> href=/app with href=/Coord-Quasar/app
+> href=/app with href=/coord-quasar/app
