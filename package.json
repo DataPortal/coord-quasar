@@ -1,8 +1,8 @@
 {
-  "name": "quasar1",
+  "name": "Coord-Quasar",
   "version": "1.0.0",
   "description": "A Quasar Framework app",
-  "productName": "Quasar1 - Testing",
+  "productName": "Coord-Quasar - Testing",
   "cordovaId": "org.cordova.quasar.app",
   "author": "Loren <24988869+GeorgiaData@users.noreply.github.com>",
   "private": true,
